@@ -1,0 +1,13 @@
+,0
+kennel,cccb18b8f8b81862f9a1ebc65d651d22
+state,Pulau Pinang
+listings,65
+animals,171
+budget,3000
+baseline_animal_days,9931.733471347103
+after_free,9395.322086657321
+after_plan,9020.957012450905
+spend,3000.0
+sessions,3
+actual_mean_days,85.55384615384615
+predicted_mean_days,54.210363245354316

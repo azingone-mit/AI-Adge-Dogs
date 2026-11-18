@@ -1,0 +1,53 @@
+{
+  "features": [
+    "Type",
+    "Age",
+    "Breed1",
+    "Breed2",
+    "IsMixedBreed",
+    "Gender",
+    "Color1",
+    "Color2",
+    "Color3",
+    "MaturitySize",
+    "FurLength",
+    "VaccinatedOrd",
+    "DewormedOrd",
+    "SterilizedOrd",
+    "Health",
+    "Quantity",
+    "Fee",
+    "State",
+    "RescuerListings",
+    "PhotoAppeal",
+    "PhotoAmt",
+    "ClipPC1",
+    "ClipPC2",
+    "ClipPC3",
+    "ClipPC4",
+    "ClipPC5",
+    "ClipPC6",
+    "ClipPC7",
+    "ClipPC8",
+    "ClipPC9",
+    "ClipPC10",
+    "VideoAmt",
+    "HasName",
+    "DescWords",
+    "SentScore",
+    "SentMagnitude"
+  ],
+  "iterations": [
+    50,
+    130,
+    168,
+    211
+  ],
+  "class_days": {
+    "0": 0.0,
+    "1": 4.0,
+    "2": 19.0,
+    "3": 60.0,
+    "4": 120.0
+  }
+}

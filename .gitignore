@@ -1,0 +1,9 @@
+# raw Kaggle files are not redistributed; run src/extract_photos.py on your own download
+train_images/
+train_metadata/
+train_sentiment/
+*.zip
+artifacts/fold_models.pkl
+deck/
+__pycache__/
+data/
