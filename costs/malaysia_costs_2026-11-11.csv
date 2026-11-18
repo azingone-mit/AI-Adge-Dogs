@@ -1,0 +1,14 @@
+action,animal,unit,price_low_rm,price_mid_rm,price_high_rm,source_name,source_url,notes
+vaccinate,dog,per_animal,40,60,100,malaysia4u vet guide 2026; QMed SPAC clinic,https://malaysia4u.com/vet-guide,Core vaccine dog: govt RM40-65; private RM50-100; QMed RM60
+vaccinate,cat,per_animal,40,50,80,malaysia4u vet guide 2026; QMed SPAC clinic,https://malaysia4u.com/vet-guide,Core vaccine cat: govt RM40-65; private RM40-80; QMed RM50
+deworm,dog,per_animal,5,15,20,SPCA Selangor; ProductNation,https://www.spca.org.my/what-we-do/spay-neuter/,SPCA RM5; tablet RM10-20
+deworm,cat,per_animal,5,15,30,SPCA Selangor; cat vaccination cost blog,https://www.spca.org.my/what-we-do/spay-neuter/,SPCA RM5; RM8-30 retail
+sterilize,dog_male,per_animal,180,240,300,The Vibes / Rakyat Post vet check,https://www.therakyatpost.com/news/malaysia/2024/10/14/subsidies-tax-reliefs-for-pet-ownership-can-ensure-better-care-for-animals/,Neuter male dog RM180-300
+sterilize,dog_female,per_animal,200,300,400,The Vibes / Rakyat Post vet check,https://www.therakyatpost.com/news/malaysia/2024/10/14/subsidies-tax-reliefs-for-pet-ownership-can-ensure-better-care-for-animals/,Spay female dog RM200-400
+sterilize,cat_male,per_animal,120,150,180,The Vibes / Rakyat Post vet check,https://www.therakyatpost.com/news/malaysia/2024/10/14/subsidies-tax-reliefs-for-pet-ownership-can-ensure-better-care-for-animals/,Neuter male cat RM120-180
+sterilize,cat_female,per_animal,150,200,250,The Vibes / Rakyat Post vet check,https://www.therakyatpost.com/news/malaysia/2024/10/14/subsidies-tax-reliefs-for-pet-ownership-can-ensure-better-care-for-animals/,Spay female cat RM150-250
+pro_photography,any,per_session,500,1000,1500,Sorot Studio KL pet photography,https://sorot-studio.pages.dev/services/pet-photography-kuala-lumpur,1-2 hr session 20-40 retouched images; assume one session covers up to 15 animals
+pro_photography_per_animal,any,per_animal,40,60,90,Pawever Memories (Vulcan Post),https://vulcanpost.com/827024/pawever-memories-pet-photography-studio-kl-malaysia,RM120 for three photos; used as per-animal studio alternative
+grooming,any,per_animal,200,250,300,ProductNation,https://productnation.co/my/28228/pet-cost-living-malaysia,Basic grooming RM200-300 per visit
+daily_care,dog,per_day,3.2,4.0,4.0,SPCA KK sponsorship; Pawtarian Pawfund,https://newswav.com/article/urgent-spca-plea-to-help-sponsor-strays-A2512_NJEaZX,SPCA dog sponsorship RM120/month; Pawtarian RM6000/month for 62 dogs
+daily_care,cat,per_day,2.0,2.7,2.7,SPCA KK sponsorship,https://newswav.com/article/urgent-spca-plea-to-help-sponsor-strays-A2512_NJEaZX,SPCA cat sponsorship RM80/month
